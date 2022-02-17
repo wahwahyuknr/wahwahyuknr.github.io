@@ -3,7 +3,7 @@ title: Wahwahyuknr
 description: My project updates
 lsi: false
 safe: true
-source: [your repo's top level directory]
+source: wahwahyuknr
 incremental: false
 highlighter: rouge
 gist:
